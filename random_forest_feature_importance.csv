@@ -1,0 +1,113 @@
+Feature,Importance
+cat__Gender (3)_Men+,0.03101358416154003
+cat__Location of study (5)_Location of study inside Canada,0.028287460348949914
+"cat__Location of study (5)_Postsecondary certificate, diploma or degree",0.028119766126179387
+cat__Gender (3)_Women+,0.027799165990309543
+"cat__Location of study (5)_No postsecondary certificate, diploma or degree",0.02746800691328404
+cat__Location of study (5)_Location of study outside Canada,0.025514421486824403
+"cat__Highest certificate, diploma or degree (16)_University certificate or diploma below bachelor level",0.019081869093814104
+cat__Age (15A)_45 to 54 years,0.017660728773166233
+cat__GEO_Newfoundland and Labrador,0.017462379633423734
+cat__Age (15A)_65 to 74 years,0.017002022344719966
+cat__Age (15A)_75 years and over,0.016357597273344515
+cat__Age (15A)_65 years and over,0.01629243253827603
+cat__Age (15A)_25 to 29 years,0.015845765726872758
+cat__Age (15A)_15 to 24 years,0.015542166416977645
+cat__Age (15A)_30 to 34 years,0.015431424007368005
+cat__GEO_New Brunswick,0.01479208950362129
+cat__GEO_Northwest Territories,0.014726711310254124
+"cat__Highest certificate, diploma or degree (16)_Apprenticeship certificate",0.01472258517651421
+"cat__Highest certificate, diploma or degree (16)_Earned doctorate",0.014630239699957914
+cat__GEO_Ontario,0.014564992356479255
+cat__Age (15A)_25 to 54 years,0.014505814171471289
+cat__GEO_Nova Scotia,0.014501774509015068
+cat__Age (15A)_55 to 64 years,0.01444420372586248
+cat__Age (15A)_20 to 24 years,0.014375996001974888
+cat__Age (15A)_25 to 64 years,0.014350433704417298
+cat__Age (15A)_35 to 44 years,0.014187833940697779
+cat__Age (15A)_25 to 34 years,0.0140345642663915
+cat__Age (15A)_15 to 19 years,0.014027892583502113
+"cat__Highest certificate, diploma or degree (16)_High (secondary) school diploma or equivalency certificate",0.01400700765223085
+cat__GEO_Saskatchewan,0.01378362847899582
+"cat__Highest certificate, diploma or degree (16)_Postsecondary certificate or diploma below bachelor level",0.01374642804650802
+cat__GEO_Prince Edward Island,0.013716031964394986
+cat__GEO_Nunavut,0.013509854537550572
+"cat__Highest certificate, diploma or degree (16)_University certificate or diploma above bachelor level",0.013507837328260908
+cat__GEO_Alberta,0.01328638839012083
+"cat__Highest certificate, diploma or degree (16)_Apprenticeship or trades certificate or diploma",0.013213270793823862
+cat__GEO_Canada,0.013175423920148416
+cat__GEO_British Columbia,0.013107665892053123
+"cat__Highest certificate, diploma or degree (16)_Degree in medicine, dentistry, veterinary medicine or optometry",0.013093936817962875
+"cat__Highest certificate, diploma or degree (16)_College, CEGEP or other non-university certificate or diploma",0.012877849288992105
+"cat__Highest certificate, diploma or degree (16)_Master's degree",0.01285033423599969
+"cat__Highest certificate, diploma or degree (16)_Postsecondary certificate, diploma or degree",0.012581660531439958
+cat__GEO_Manitoba,0.012573622378323093
+cat__GEO_Yukon,0.012531360640825944
+"cat__Highest certificate, diploma or degree (16)_Bachelor's degree",0.01252928303737335
+"cat__Highest certificate, diploma or degree (16)_Non-apprenticeship trades certificate or diploma",0.012443840428370115
+"cat__Highest certificate, diploma or degree (16)_Bachelor’s degree or higher",0.012442094696234687
+cat__GEO_Quebec,0.01178722276895143
+"cat__Highest certificate, diploma or degree (16)_No certificate, diploma or degree",0.011070266945536185
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_10. Communications technologies/technicians and support services,0.006474984103563557
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_16. Indigenous and foreign languages, literatures, and linguistics",0.005930840952184232
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_44. Public administration and social service professions,0.005335507705278324
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Humanities,0.0050750827251824894
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30B Interdisciplinary social and behavioural sciences,0.005018640499569869
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30D Interdisciplinary mathematics, computer and information sciences",0.00468295668377744
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_29. Military technologies and applied sciences,0.0045897222980550816
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_01. Agricultural and veterinary sciences/services/operations and related fields,0.004461879061731857
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Visual and performing arts, and communications technologies",0.004416553842153755
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_47. Mechanic and repair technologies/technicians,0.004321528654007576
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Physical and life sciences and technologies,0.004304205699262582
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Business, management and public administration",0.004288841325012583
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_No postsecondary certificate, diploma or degree",0.004244733415142669
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_54. History,0.004174522004922882
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_43. Security and protective services,0.004121797889901648
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Architecture, engineering, and related trades",0.004105719994176737
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_39. Theology and religious vocations,0.00410107947103109
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_49. Transportation and materials moving,0.004053140642811435
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30A Interdisciplinary humanities,0.004029341125949563
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_52. Business, management, marketing and related support services",0.0040053558292376485
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_27. Mathematics and statistics,0.0036970895586474796
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Education,0.003613900783605902
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30.16 Accounting and computer science,0.00359368963336693
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_11. Computer and information sciences and support services,0.003585076334955132
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_31. Parks, recreation, leisure, fitness, and kinesiology",0.0035727305474734868
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_50. Visual and performing arts,0.0035629849036611337
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30.37 Design for human health,0.0035613519249883797
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30C Other interdisciplinary physical and life sciences,0.0035122480036896024
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_19. Family and consumer sciences/human sciences,0.003500126728964554
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30.01 Biological and physical sciences,0.003465850697557037
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_28. Military science, leadership and operational art",0.003445202992983711
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_03. Natural resources and conservation,0.003373945029016942
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_61. Medical residency/fellowship programs,0.0033676269559711936
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_05. Area, ethnic, cultural, gender, and group studies",0.003367211930002261
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Social and behavioural sciences and law,0.0033516813469901515
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_23. English language and literature/letters,0.0033475806601053625
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_42. Psychology,0.003328795414143315
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Health and related fields,0.0032914451605956835
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_14. Engineering,0.003249336979966257
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_41. Science technologies/technicians,0.003242029436323936
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_25. Library science,0.003233020367008831
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_48. Precision production,0.003217266975432669
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_46. Construction trades,0.003174815182936233
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_38. Philosophy and religious studies,0.0031314979034249646
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_24. Liberal arts and sciences, general studies and humanities",0.0030861428795600316
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_22. Legal professions and studies,0.0030465263592525126
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Agriculture, natural resources and conservation",0.003023716896532311
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_30.12 Historic preservation and conservation,0.0029869680131843
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_09. Communication, journalism and related programs",0.0029311018538432263
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Mathematics, computer and information sciences",0.00291571923836569
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_51. Health professions and related programs,0.002884442007617115
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_40. Physical sciences,0.0028608251112876965
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_13. Education,0.0027799124163668905
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_26. Biological and biomedical sciences,0.0027452501966805975
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_15. Engineering/engineering-related technologies/technicians,0.0026448264238869324
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_55. French language and literature/lettersCAN,0.0026029052633445102
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Other,0.002589043654814608
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_12. Culinary, entertainment, and personal services",0.0025431207355682823
+"cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_Personal, protective and transportation services",0.00238114895498817
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_60. Health professions residency/fellowship programs,0.0023034108471352236
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_04. Architecture and related services,0.0018734594389501439
+cat__Major field of study - Classification of Instructional Programs (CIP) 2021 (63)_45. Social sciences,0.0016996097745512473
+num__REF_DATE,0.0
